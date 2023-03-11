@@ -101,6 +101,7 @@ Image Listed in Horizon Dashboard.
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/78562069/224502524-76a76379-86ee-4f37-8c2b-7f1946f96d0b.png">
 
 To allocate a floating IP, Project -> Network -> Floating IPs.
+
 <img width="436" alt="image" src="https://user-images.githubusercontent.com/78562069/224502549-09dd81d1-7e15-4623-8d26-94d0beacae0a.png">
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/78562069/224502559-ad67fb3c-3f9c-4e7b-869d-1005c5bdfe37.png">
